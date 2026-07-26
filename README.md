@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center"><b>Hola, soy Luis Pareja </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<!--
-**Agente-707/Agente-707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  -->
+<img align="right" width=265px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIxaDR5Ym83N3V0MmZlZm0xdXZ4eTZ1eTI5Mm9ja2JwazJ2bWpsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" />
 
-Here are some ideas to get you started:
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM5bDhqZ3l1MHB2ZmY3azZlazlmanprYzE5NXJsZ2cxa2dzeDZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="40px">&nbsp;***Acerca de mí***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Ingeniería** (UNI) de <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/> Peru, y actualmente estoy en mi TERCER CICLO de la carrera. En este momento estoy profundizando mis conocimientos sobre programación, algoritmos, estructuras de datos y fundamentos de las ciencias de la computación, desarrollando habilidades que me permitirán seguir creciendo académica y profesionalmente. Me motiva aprender constantemente, enfrentar nuevos retos y participar en proyectos que me ayuden a mejorar como futuro profesional.
+
+## Mis habilidades incluyen
+
+<h4> Lenguajes </h4>
+<span> 
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+ 
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Agente-707&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Agente-707&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+<h4> Otras herramientas y tecnologías </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  
+
+
+
