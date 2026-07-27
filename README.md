@@ -8,7 +8,7 @@
 
 Soy estudiante de **Ciencias de la Computación**:computer: en la **Universidad Nacional de Ingeniería** (UNI) <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/>:books:, actualmente en el **tercer ciclo** de la carrera.
 
-Me enfoco en fortalecer mis bases en **programacion, algoritmos y estructura de datos**. Me interesa seguir creciendo como desarrollador superar todo tipo de retos que me aporten valor real.
+Me enfoco en fortalecer mis bases en **programacion, algoritmos y estructura de datos**. Me interesa seguir creciendo como desarrollador y superar todo tipo de retos que me aporten valor real.
 
 ## Mis habilidades incluyen
 
