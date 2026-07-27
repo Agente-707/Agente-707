@@ -1,11 +1,14 @@
-<h1 align="center"><b>Hola, soy Luis Pareja </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><b>Hola, soy Luis Pareja </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">👀</h1>
 
 <!--  -->
-<img align="right" width=265px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIxaDR5Ym83N3V0MmZlZm0xdXZ4eTZ1eTI5Mm9ja2JwazJ2bWpsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" />
+<img align="right" width=220px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIxaDR5Ym83N3V0MmZlZm0xdXZ4eTZ1eTI5Mm9ja2JwazJ2bWpsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" />
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM5bDhqZ3l1MHB2ZmY3azZlazlmanprYzE5NXJsZ2cxa2dzeDZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="40px">&nbsp;***Acerca de mí***
 
-Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Ingeniería** (UNI) de <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/> Peru, y actualmente estoy en mi TERCER CICLO de la carrera. En este momento estoy profundizando mis conocimientos sobre programación, algoritmos, estructuras de datos y fundamentos de las ciencias de la computación, desarrollando habilidades que me permitirán seguir creciendo académica y profesionalmente. Me motiva aprender constantemente, enfrentar nuevos retos y participar en proyectos que me ayuden a mejorar como futuro profesional.
+
+Soy estudiante de **Ciencias de la Computación**:computer: en la **Universidad Nacional de Ingeniería** (UNI) <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/>:books:, actualmente en el **tercer ciclo** de la carrera.
+
+Me enfoco en fortalecer mis bases en **programacion, algoritmos y estructura de datos**. Me interesa seguir creciendo como desarrollador superar todo tipo de retos que me aporten valor real.
 
 ## Mis habilidades incluyen
 
