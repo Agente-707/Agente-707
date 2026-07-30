@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, soy Luis Pareja </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">👀</h1>
 
 <!--  -->
-<img align="right" width=220px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIxaDR5Ym83N3V0MmZlZm0xdXZ4eTZ1eTI5Mm9ja2JwazJ2bWpsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" />
+<img align="right" width=200px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIxaDR5Ym83N3V0MmZlZm0xdXZ4eTZ1eTI5Mm9ja2JwazJ2bWpsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" />
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM5bDhqZ3l1MHB2ZmY3azZlazlmanprYzE5NXJsZ2cxa2dzeDZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="40px">&nbsp;***Acerca de mí***
 
