@@ -10,23 +10,27 @@ Soy estudiante de **Ciencias de la Computación**:computer: en la **Universidad 
 
 Me enfoco en fortalecer mis bases en **programacion, algoritmos y estructura de datos**. Me interesa seguir creciendo como desarrollador y superar todo tipo de retos que me aporten valor real.
 
-## Mis habilidades incluyen
+## Lenguajes que uso
 
-<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+</span>
+
+## Mis Estadísticas 
  
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=Agente-707&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Agente-707&layout=compact&theme=tokyonight&hide_border=true)
 
-
+![Snake animation](https://raw.githubusercontent.com/Agente-707/Agente-707/output/github-snake-dark.svg)
 
 <h4> Otras herramientas y tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</span>
   
-![Snake animation](https://raw.githubusercontent.com/Agente-707/Agente-707/output/github-snake-dark.svg)
+
 
 
