@@ -33,14 +33,9 @@ Me enfoco en fortalecer mis bases en **programacion, algoritmos y estructura de 
 
 ![Snake animation](https://raw.githubusercontent.com/Agente-707/Agente-707/output/github-snake-dark.svg)
 
-<p align="center">================================================================================</p>
-
 <p align="center">
   <img width="700px" alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFkYm82ajUwc2RyajBtamU1emQxdHpkeDY5dGozdzJvc2JlM2o3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10Y4hHRwOdps1a/giphy.gif" />
 </p>
 
-<p align="center"><b>Gracias por la visita, bye! 👀 </b></p>
-<p align="center">================================================================================</p>
-
-
+<h1 align="center"><b>Gracias por la visita, bye! 👀 </b></h1>
 
