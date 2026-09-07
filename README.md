@@ -31,11 +31,23 @@ Me enfoco en fortalecer mis bases en **programacion, algoritmos y estructura de 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Agente-707&layout=compact&bg_color=020E0E&title_color=01DE82&text_color=16A085&icon_color=05614B&hide_border=true" alt="Top Languages" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Agente-707/Agente-707/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Agente-707&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Agente-707/Agente-707/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img width="700px" alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFkYm82ajUwc2RyajBtamU1emQxdHpkeDY5dGozdzJvc2JlM2o3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10Y4hHRwOdps1a/giphy.gif" />
 </p>
 
-<h1 align="center"><b>Gracias por la visita, bye! 👀 </b></h1>
+<p align="center"><b> <<< Gracias por la visita, bye! 👀 >>> </b></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Agente-707&label=profile+views&color=01DE82&style=plastic" alt="visitors"/>
+</p>
+
+---
 
